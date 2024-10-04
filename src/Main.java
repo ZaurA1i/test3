@@ -1,19 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-//ejflesjfetttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttjfj  mur
-//
-//        a
-//                d
-//
-//
-//
-//
-//
-//
-//                h
-//                        hads
-//                        v
-
-
+        int a = 5;
+        System.out.println(a);
     }
 }
